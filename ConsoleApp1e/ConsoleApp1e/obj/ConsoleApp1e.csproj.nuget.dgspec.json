@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tubigon\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj": {}
+    "D:\\Tubigon\\c-sharp-prelim\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj": {}
   },
   "projects": {
-    "D:\\Tubigon\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj": {
+    "D:\\Tubigon\\c-sharp-prelim\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tubigon\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj",
+        "projectUniqueName": "D:\\Tubigon\\c-sharp-prelim\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj",
         "projectName": "ConsoleApp1e",
-        "projectPath": "D:\\Tubigon\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj",
+        "projectPath": "D:\\Tubigon\\c-sharp-prelim\\ConsoleApp1e\\ConsoleApp1e\\ConsoleApp1e.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Tubigon\\ConsoleApp1e\\ConsoleApp1e\\obj\\",
+        "outputPath": "D:\\Tubigon\\c-sharp-prelim\\ConsoleApp1e\\ConsoleApp1e\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

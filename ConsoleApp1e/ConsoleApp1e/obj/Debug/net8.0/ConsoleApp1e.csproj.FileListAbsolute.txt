@@ -1,0 +1,15 @@
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\bin\Debug\net8.0\ConsoleApp1e.exe
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\bin\Debug\net8.0\ConsoleApp1e.deps.json
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\bin\Debug\net8.0\ConsoleApp1e.runtimeconfig.json
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\bin\Debug\net8.0\ConsoleApp1e.dll
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\bin\Debug\net8.0\ConsoleApp1e.pdb
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.AssemblyInfoInputs.cache
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.AssemblyInfo.cs
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.csproj.CoreCompileInputs.cache
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.sourcelink.json
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.dll
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\refint\ConsoleApp1e.dll
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.pdb
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ConsoleApp1e.genruntimeconfig.cache
+D:\Tubigon\c-sharp-prelim\ConsoleApp1e\ConsoleApp1e\obj\Debug\net8.0\ref\ConsoleApp1e.dll
